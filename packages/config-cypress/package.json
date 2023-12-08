@@ -1,0 +1,12 @@
+{
+  "name": "@repo/config-cypress",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "cypress": "cypress"
+  },
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
