@@ -5,7 +5,7 @@
     "dev": "turbo dev ",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "cypress": "cypress run --config-file packages/config-cypress/cypress.config.js"
+    "cypress": "cypress run --project ./apps/calculatrice"
   },
   "devDependencies": {
     "eslint": "^8.54.0",
